@@ -193,7 +193,9 @@ ol {
     nav {
         margin: 20px auto;
     }
-
+    img {
+        margin: 0px;
+    }
     
 }
 
